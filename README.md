@@ -1,5 +1,5 @@
 # flask-demo
-watch the demo [youtube](https://youtube.com)
+watch the demo [youtube](https://youtu.be/yS3bMdWAIC4)
 
 ## getting started
 1. build the docker containers:
